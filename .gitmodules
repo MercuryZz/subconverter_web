@@ -1,0 +1,3 @@
+[submodule "subweb"]
+	path = subweb
+	url = https://github.com/MercuryZz/subweb.git
