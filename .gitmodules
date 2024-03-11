@@ -1,3 +1,6 @@
 [submodule "subweb"]
 	path = subweb
 	url = https://github.com/MercuryZz/subweb.git
+[submodule "subconverter"]
+	path = subconverter
+	url = https://github.com/MetaCubeX/subconverter.git
